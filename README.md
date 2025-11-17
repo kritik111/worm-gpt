@@ -1,0 +1,2 @@
+# worm-gpt
+evil chatgpt
